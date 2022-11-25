@@ -5,6 +5,7 @@
   "type": "module",
   "main": "src/main.ts",
   "scripts": {
+    "node": "ts-node-esm",
     "start": "ts-node-esm src/main.ts",
     "build": "tsc"
   },
